@@ -1,6 +1,5 @@
-
-/bin/
-/Libs/
-/.settings/
-/.classpath
-.svn/
+node_modules
+.vscode
+coverage
+.nyc_output
+yarn.lock
