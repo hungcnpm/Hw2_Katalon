@@ -1,5 +1,2 @@
+.idea
 node_modules
-.vscode
-coverage
-.nyc_output
-yarn.lock
